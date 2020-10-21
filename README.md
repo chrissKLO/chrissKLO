@@ -4,7 +4,8 @@
 My name is Chriss Klosowski, I'm currently a student. I'm from France, currently living in Dubai, United Arab Emirates. I love aviation & VATSIM. You can easily find me on Twitter or see me online flying or controlling on the [VATSIM Network.](https://vatsim.net)
 
 # GitHub Stats
-[![chrissKLO's github stats](https://github-readme-stats.vercel.app/api?username=chrissKLO)](https://github.com/chrissKLO)
+![chrissKLO's github stats](https://github-readme-stats.vercel.app/api?username=chrissKLO&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrissKLO&theme=gruvbox)
 
 <!--
 **chrissKLO/chrissKLO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
