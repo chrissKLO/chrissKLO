@@ -1,6 +1,7 @@
 [![chrissKLO](https://i.imgur.com/96JOlVp.png)](https://github.com/chrissKLO)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My name is Chriss Klosowski, I'm currently a student. I'm from France, currently living in Dubai, United Arab Emirates. I love aviation & VATSIM. You can find me on Twitter.
 
 
 <!--
