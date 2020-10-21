@@ -7,7 +7,7 @@ My name is Chriss Klosowski, I'm currently a student. I'm from France, currently
 ![chrissKLO's github stats](https://github-readme-stats.vercel.app/api?username=chrissKLO&show_icons=true&theme=gruvbox)
 
 # Info
-![](https://img.shields.io/badge/OS-Windows%2010-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows%2010-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-Visual%Studio%Code-informational?style=flat&logo=Visual%Studio%Code&logoColor=white&color=2bbc8a)
 
 
 
